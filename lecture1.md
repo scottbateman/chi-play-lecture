@@ -43,8 +43,14 @@ with applications in:
  - skills training 
  - collaborative work, and
  - entertainment
+---
+![bg](./images/scott-1.png)
 
 ---
+![bg](./images/scott-2.png)
+
+---
+
 # Plan for Two Lectures
  1. Today - Lecture 1: Foundations of Game Design and Research
  2. Next Week - Lecture 2: Tour of Research in Games and Play in HCI
@@ -439,6 +445,12 @@ Game experience is shaped by the interplay of various design elements that influ
   - *Journey*: Minimalistic character design and seamless controls foster a sense of unity with the game’s flow.
 
 ---
+# Embodiment
+# in Half Life: Alyx
+![bg left:50% w:900px](./images/alyx-1.webp)
+![](./images/alyx-2.gif)
+
+---
 
 # 3. Flow
 - **Definition**: Flow is a state of deep focus and enjoyment, where players are fully engaged, and challenges align with their skill level.
@@ -461,7 +473,7 @@ Game experience is shaped by the interplay of various design elements that influ
 - **Examples**:
   - *Tetris*: Increasing difficulty keeps players engaged as they improve.
   - *Dark Souls*: High-risk, high-reward gameplay encourages mastery and persistence.
-
+![bg right:29% w:400px](./images/ds-1.gif)
 ---
 # 4. Game Feel
 - **Definition**: *Game feel* refers to the tactile, sensory, and emotional feedback players experience during interaction with a game. It is often described as the "soul" of a game’s controls.
@@ -482,6 +494,11 @@ Game experience is shaped by the interplay of various design elements that influ
 
 ![alt text bg right:25% w:300](./images/gamefeelquote.png)
 
+
+---
+# Game Feel in Celeste
+![bg left:60% w:800px](./images/celeste.gif)
+![h:300](./images/celeste-pico-8.gif)
 
 ---
 # 5. Juiciness
@@ -581,6 +598,8 @@ Gamification involves the use of game elements, such as points, leaderboards, an
    - **Points and Rewards**: Provide instant feedback and motivation (e.g., frequent flyer miles, badges).
    - **Challenges**: Encourage goal-oriented behavior (e.g., Duolingo’s daily streaks).
    - **Leaderboards**: Foster competition and social comparison (e.g., Fitbit’s step challenges).
+
+   ![bg right:40% w:400px](./images/duo.webp)
 ---
 # Key Components of Gamification
 2. **Psychological Foundations**:
@@ -594,8 +613,8 @@ Gamification involves the use of game elements, such as points, leaderboards, an
 # 3. Gamification Applications:
    - **Education**: Platforms like Duolingo use gamification to make language learning engaging.
    - **Healthcare**: Apps like Zombies, Run! encourage physical activity by integrating storytelling and goals.
-   - **Workplace**: Tools like Microsoft Viva use gamified elements to improve employee engagement.
-
+   - **Workplace**: Commercial software like Saleforce use gamified elements to improve employee engagement.
+![h:300](./images/salesforce.png)
 ---
 
 # Gamification: Criticisms and Challenges:
@@ -615,7 +634,6 @@ Serious games are designed primarily for purposes beyond entertainment, such as 
    - Focus on achieving non-entertainment goals, such as learning or behavior change.
 2. **Blend of Fun and Functionality**:
    - Games must remain engaging to ensure player retention and goal achievement.
-
 ---
 
 # Applications of Serious Games
@@ -625,6 +643,7 @@ Serious games are designed primarily for purposes beyond entertainment, such as 
 2. **Game for Therapy**:
    - Games like *SPARX* are designed to help teenagers manage depression.
    - Virtual reality simulations assist in pain management and rehabilitation.
+   ![bg right:35% w:400px](./images/foldit.webp)
 ---
 # Applications of Serious Games
 
@@ -633,6 +652,9 @@ Serious games are designed primarily for purposes beyond entertainment, such as 
    - Games for medical training provide realistic, risk-free environments for practicing surgical procedures.
 4. **Social Awareness**:
    - Games like *Papers, Please* raise awareness about political and ethical dilemmas in border control.
+
+![h:250px](./images/papers.gif)
+
 ---
 # Design Principles of Serious Games
 - **Engagement**: Balance educational or training content with entertaining mechanics.
@@ -680,11 +702,13 @@ Unlike traditional HCI experimentation, play testing focuses less on standardize
    - HCI experimentation often emphasizes efficiency, accuracy, and task completion.
    - Play testing prioritizes player enjoyment, immersion, and emotional responses.
 ---
-# How Play Testing Differs from Traditional HCI Experimentation
+# How Play Testing Differs 
 
 2. **Iterative Creative Process**:
    - HCI studies typically aim to validate hypotheses or measure performance metrics.
    - Play testing is a fluid, iterative process where findings directly inform design changes to enhance the player experience.
+
+   ![h:300px](./images/playtesters.avif)
 ---
 # How Play Testing Differs from Traditional HCI Experimentation
 
@@ -707,7 +731,8 @@ Unlike traditional HCI experimentation, play testing focuses less on standardize
 # Practical Example
 
 In *Portal*, early play testing revealed players were confused about the portal gun's mechanics. This led to a redesign of tutorial levels, and mechanics were introduced incrementally to ensure understanding.
-<!-- TODO picture of portal -->
+
+![h:350px](./images/portal.gif)
 
 ---
 
@@ -785,7 +810,7 @@ International Journal of Human-Computer Studies, Volume 135, 2020, https://doi.o
 
 ---
 
-# Game #1: Breakout - find the right juice!
+# Game #1: Breakout - find the best juice!
 
 This is a recreation of Breakout created by Martin Jonasson & Petri Purho for their talk "Juice it or lose it", presented at Nordic Game, 2012.  
 
@@ -799,7 +824,7 @@ You have 20 minutes to play around and select the best version that contains jui
 Scott will choose the 'best' version and we will play test it later.
 
 ---
-# Game #2: Super Mario Bros. - improve the best game feel!
+# Game #2: Super Mario Bros. - create the best game feel!
 
 The second game is a recreation of the original Super Mario Bros for Unity.
 
