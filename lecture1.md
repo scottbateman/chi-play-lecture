@@ -838,3 +838,19 @@ You have 50 minutes to create the best version you can.
 
  - Repository: https://github.com/scottbateman/unity-super-mario
 
+---
+# Experiment Time
+
+ - Play the two version of each game for 5 minutes each:
+    - Breakout
+      - Version 1: No Juice
+      - Version 2: The Best Combintation
+
+    - Super Mario
+      - Version 1: The Original Unity Project
+      - Version 2: The Best Version
+
+    Immediately afterwards complete the PXI: 
+    https://forms.office.com/r/932fuZqCPt
+
+- Results to be presented next week
