@@ -323,7 +323,7 @@ This is just one among many, but it is the first and most well known characteriz
      - Foster community with chat systems, multiplayer modes, and cooperative gameplay.
      - Example: Players who join guilds or spend time chatting in *Animal Crossing*.
 
-     ![alt text](./images/animal.gif)
+     ![h:200](./images/animal.gif)
 ---
 # The Four Player Types
 
