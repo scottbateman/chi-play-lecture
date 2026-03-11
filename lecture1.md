@@ -190,7 +190,7 @@ Examples of Aesthetics (there are more than this):
  - **Challenge**: The satisfaction of overcoming difficult obstacles (*Celeste*).
  - **Fellowship**: Social connections in multiplayer games (*World of Warcraft*).
  - **Discovery**: The joy of exploring new environments (*Breath of the Wild*).
- - **Expression**: The ability to express oneself creatively. (*Minecraft*)
+ - **Expression**: The ability to express oneself creatively (*Minecraft*).
 ---
 # Design Considerations for Aesthetics
 
@@ -327,9 +327,9 @@ This is just one among many, but it is the first and most well known characteriz
    - **Behavior**: Value relationships and teamwork over the game itself.
    - **Design Considerations**:
      - Foster community with chat systems, multiplayer modes, and cooperative gameplay.
-     - Example: Players who join guilds or spend time chatting in *Animal Crossing*.
+     - Example: Players who join guilds or spend time chatting in *World of Warcraft*.
 
-     ![h:200](./images/animal.gif)
+     ![h:200](./images/wow.gif)
 ---
 # The Four Player Types
 
